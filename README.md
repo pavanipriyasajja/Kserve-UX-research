@@ -1,0 +1,5 @@
+## GitHub Mining Research for KServe
+### Overview:
+This repository contains the complete documentation for an end-to-end GitHub mining research study focused on understanding the developer experience of deploying, operating, and maintaining machine learning inference workloads with KServe on Kubernetes.
+The research analyzes community-reported GitHub issues to identify recurring developer challenges, workflow friction, usability gaps, and operational pain points throughout the ML inference lifecycle. In addition to long-term developer experience trends, the study investigates version-specific issues and Large Language Model (LLM) inference challenges to better understand how the KServe ecosystem has evolved over time.
+The repository documents the complete research process, including the research methodology, data collection approach, issue categorization framework, analysis methodology, findings, and recommendations. It is intended to provide transparency into how the research was conducted and to serve as a reference for maintainers, contributors, researchers, and the broader KServe community.
