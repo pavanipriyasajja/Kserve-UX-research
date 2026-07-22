@@ -117,7 +117,7 @@ GitHub Mining provides a scalable and evidence-based approach to understanding d
 
 ### Research team: 
 
-Pavanipriya Sajja - UX researcher & Designer Independent, Jooho Lee - Principal Software Engineer at Redhat & Kserve maintainer (, Filippe Spolti - Senior Software engineer & Kserve maintainer.
+Pavanipriya Sajja - UX researcher & Designer Independent (<a href="https://www.linkedin.com/in/pavanipriyasajja/" target="_blank"> Linkedin </a>) , Jooho Lee - Principal Software Engineer at Redhat & Kserve maintainer (<a href="https://www.linkedin.com/in/jooho/" target="_blank"> Linkedin </a>), (Filippe Spolti - Senior Software engineer & Kserve maintainer.(<a href="https://www.linkedin.com/in/spolti/" target="_blank"> Linkedin </a>)
 
 ### Acknowledgements 
 
@@ -128,9 +128,7 @@ This research is conducted by the KServe UX Research Team with the goal of impro
 
 <b>Licence:</b> This repository follows the same license as the KServe project unless otherwise specified.
 
-To get Involved and Learn more about the Kserve, Please visit the Kserve webiste: <a href="https://kserve.github.io/website/" target="_blank">
-  Kserve Website
-</a>
+To get Involved and Learn more about the Kserve, Please visit the Kserve webiste: <a href="https://kserve.github.io/website/" target="_blank"> Kserve Website </a>
 
 
 
