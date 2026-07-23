@@ -117,7 +117,7 @@ GitHub Mining provides a scalable and evidence-based approach to understanding d
 
 ### Research team: 
 
-Pavanipriya Sajja - UX researcher & Designer Independent (<a href="https://www.linkedin.com/in/pavanipriyasajja/" target="_blank"> Linkedin </a>) , Jooho Lee - Principal Software Engineer at Redhat & Kserve maintainer (<a href="https://www.linkedin.com/in/jooho/" target="_blank"> Linkedin </a>), (Filippe Spolti - Senior Software engineer & Kserve maintainer.(<a href="https://www.linkedin.com/in/spolti/" target="_blank"> Linkedin </a>)
+<b>Pavanipriya Sajja</b> - UX researcher & Designer Independent (<a href="https://www.linkedin.com/in/pavanipriyasajja/" target="_blank"> Linkedin </a>) , <b>Jooho Lee</b> - Principal Software Engineer at Redhat & Kserve maintainer (<a href="https://www.linkedin.com/in/jooho/" target="_blank"> Linkedin </a>), <b>Filippe Spolti</b> - Senior Software engineer & Kserve maintainer.(<a href="https://www.linkedin.com/in/spolti/" target="_blank"> Linkedin </a>)
 
 ### Acknowledgements 
 
